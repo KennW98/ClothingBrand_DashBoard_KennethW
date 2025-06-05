@@ -1,50 +1,28 @@
-Clothing Brand Sales Dashboard – Powered by Power BI
+# Clothing Brand Sales Dashboard
 
-Analyzing drip with data since 2024
+![Dashboard Preview](Dashboard_Screenshot.png)
 
-⸻
+A Power BI project visualizing sales and product performance for a personal apparel brand. Built to explore how data storytelling can support better business strategy.
 
-📊 About This Project
+## 📊 Key Features
+- KPI tracker for Total Sales and Product Count
+- Monthly sales trend line chart
+- Product category comparison bar chart
+- Clean, single-page layout for fast insights
 
-This Power BI dashboard visualizes apparel sales performance using real-world-style mock data. It was created as part of a personal branding and portfolio effort to demonstrate data analytics skills relevant to business, retail, and marketing insights.
+## 🛠 Tools & Skills
+- Power BI Desktop
+- Excel for data prep
+- DAX (basic)
+- Data visualization & storytelling
 
-⸻
+## 🧠 Why I Built This
+As a transitioning Navy veteran, I wanted to explore data analytics using a topic I care about. This dashboard helped me understand how clear visuals drive better decisions — both in business and in my career shift.
 
-🛠 Tools & Features Used
-	•	Power BI
-	•	Excel (CSV Data Import)
-	•	DAX (Calculated Measures)
-	•	Basic Slicers
+## 📁 Files
+- `ClothingBrandDashboard.pbix` – Power BI file
+- `sales_data.csv` – Raw sales data
+- `Dashboard_Screenshot.png` – Project preview
 
-⸻
-
-📈 Dashboard Visuals
-	•	KPI Card – Best-Selling Channel
-	•	Bar Chart – Sales by Category
-	•	Line Chart – Units Sold Over Time
-	•	Product Table – Revenue, Units Sold, Average Price
-	•	Slicer – Channel and Date Filtering
-
-⸻
-
-🔑 Key Takeaways
-	•	Built to demonstrate beginner-to-intermediate Power BI skills.
-	•	Shows real product-level sales data across categories, channels, and time.
-	•	Incorporates clean layout, strong data storytelling, and interactive filtering.
-	•	Personal branding included with a fun subtitle to show personality alongside professionalism.
-
-⸻
-
-📁 Files Included
-	•	ClothingBrandDashboard.pbix – Power BI project file
-	•	sales_data.csv – Source data file (mock)
-	•	Dashboard_Screenshot.png – Visual preview of the report
-
-⸻
-
-🙋‍♂️ Author
-
-Kenneth D. Woods Jr.
-LinkedIn: linkedin.com/in/kennethwoodsjr98
-
-Created: June 05, 2025
+## 🔗 Connect With Me
+- [LinkedIn](https://linkedin.com/in/kennethwoodsjr98)
