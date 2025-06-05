@@ -1,6 +1,12 @@
-# Clothing Brand Sales Dashboard
+# My Clothing Brand Sales Power BI Dashboard
 
 ![Dashboard Preview](Dashboard_Screenshot.png)
+
+## 📁 Download the Power BI File
+
+You can download the full `.pbix` file here to explore the report interactively:
+
+👉 [Click to Download the PBIX File](ClothingBrandDashboard.pbix)
 
 A Power BI project visualizing sales and product performance for a personal apparel brand. Built to explore how data storytelling can support better business strategy.
 
