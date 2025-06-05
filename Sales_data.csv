@@ -1,0 +1,8 @@
+,OrderID,OrderDate,ProductName,Category,Price,Quantity,Total,Channel
+,1001,2024-01-05,Retro Snapback,Hats,25,2,50,Instagram
+,1002,2024-01-07,Classic Tee,Shirts,30,1,30,Website
+,1003,2024-01-10,Tie-Dye Hoodie,Hoodies,55,3,165,Pop-up Shop
+,1004,2024-01-15,Retro Joggers,Bottoms,40,2,80,Website
+,1005,2024-01-20,Logo Beanie,Hats,20,4,80,Instagram
+,1006,2024-01-25,Varsity Jacket,Outerwear,85,1,85,Pop-up Shop
+,1007,2024-02-01,Retro Snapback,Hats,25,3,75,Website
